@@ -25,9 +25,6 @@ number | title | dynasty | author | content
 
 #### 近百万首诗词是中国历史文化的缩影，是宝贵的历史财富，希望能有更多好的创意，将其融入到当代的产品、生活中。
 
-打赏作者
-<img src="https://github.com/yaonphy/PoetryLibrary/blob/master/IMG_6682.jpg" width = "100" height = "100" div align=center />
-<img src="https://github.com/yaonphy/PoetryLibrary/blob/master/IMG_6683.jpg" width = "100" height = "100" div align=center />
-
-![支付宝付款码](https://github.com/yaonphy/PoetryLibrary/blob/master/IMG_6682.jpg)
-![微信付款码](https://github.com/yaonphy/PoetryLibrary/blob/master/IMG_6683.jpg)
+##### 打赏作者
+<img src="https://github.com/yaonphy/PoetryLibrary/blob/master/IMG_6682.jpg" width = "300" height = "252" div align=center />
+<img src="https://github.com/yaonphy/PoetryLibrary/blob/master/IMG_6683.jpg" width = "300" height = "346" div align=center />
