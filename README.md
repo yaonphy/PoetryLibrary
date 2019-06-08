@@ -24,3 +24,7 @@ number | title | dynasty | author | content
 注：有个别复杂/罕见的古体字，在UTF-8下无法正常显示，显示的是 ？字符
 
 #### 近百万首诗词是中国历史文化的缩影，是宝贵的历史财富，希望能有更多好的创意，将其融入到当代的产品、生活中。
+
+打赏作者
+![支付宝付款码](https://github.com/yaonphy/PoetryLibrary/blob/master/IMG_6682.jpg)
+![微信付款码](https://github.com/yaonphy/PoetryLibrary/blob/master/IMG_6683.jpg)
