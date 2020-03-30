@@ -33,6 +33,6 @@ number | title | dynasty | author | content
 
 #### 近百万首诗词是中国历史文化的缩影，是宝贵的历史财富，希望能有更多好的创意，将其融入到当代的产品、生活中。
 
-##### 打赏作者
+##### Job Hunt 小程序:匿名看工作机会
 <img src="https://github.com/yaonphy/PoetryLibrary/blob/master/IMG_6682.jpg" width = "300" height = "252" div align=center />
 <img src="https://github.com/yaonphy/PoetryLibrary/blob/master/IMG_6683.jpg" width = "300" height = "346" div align=center />
