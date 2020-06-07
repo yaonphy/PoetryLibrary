@@ -35,4 +35,4 @@ number | title | dynasty | author | content
 
 
 ## Job Hunt 小程序:匿名看工作机会
-<img src="https://6a6f-job-hunt-bvzy1-1259590017.tcb.qcloud.la/adForGithub/jobhunt-javaguide.png" style="margin: 0 auto;width:400px"/>
+<img src="https://6a6f-job-hunt-bvzy1-1259590017.tcb.qcloud.la/adForGithub/jobhunt-javaguide.png" style="margin: 0 auto;width:400"/>
