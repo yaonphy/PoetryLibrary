@@ -35,5 +35,4 @@ number | title | dynasty | author | content
 
 
 ## Job Hunt 小程序:匿名看工作机会
-<img src="https://github.com/yaonphy/PoetryLibrary/blob/master/invitting.png" width = "800" height = "600" align=center />
-<img src="https://github.com/yaonphy/PoetryLibrary/blob/master/gh_abaf6eb6b36a_860 (4).jpg" width = "200" height = "200"  align=center />
+<img src="https://6a6f-job-hunt-bvzy1-1259590017.tcb.qcloud.la/adForGithub/jobhunt-javaguide.png" style="margin: 0 auto;width:400px"/>
