@@ -32,9 +32,3 @@ number | title | dynasty | author | content
 ![](https://github.com/yaonphy/PoetryLibrary/blob/master/屏幕快照%202019-06-08%20下午9.53.59.png)
 
 #### 近百万首诗词是中国历史文化的缩影，是宝贵的历史财富，希望能有更多好的创意，将其融入到当代的产品、生活中。
-
-
-## Job Hunt 小程序:匿名看工作机会
-<p align="center">
-<img src="https://6a6f-job-hunt-bvzy1-1259590017.tcb.qcloud.la/adForGithub/jobhunt-javaguide.png" style="margin: 0 auto;width:400px"/>
-</p>
